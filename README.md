@@ -1,2 +1,2 @@
 Rock, paper or scissor -
-Simple game challenge from The Odin Projetc course
+<h1> Simple game challenge from The Odin Projetc course</h1>
